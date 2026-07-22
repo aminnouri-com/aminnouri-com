@@ -26,7 +26,7 @@ I am a systems programmer passionate about high-performance infrastructure, clou
 ### 📫 Let's Connect
 Whether you want to talk about Rust, kernel hacking, or open-source infrastructure, feel free to reach out:
 - **LinkedIn:** [Amin Nouri](https://linkedin.com/in/aminnouri-com/)
-- **X (Twitter):** [@YourTwitterHandle](https://x.com/aminnouri_com)
+- **X (Twitter):** [@aminnouri_com](https://x.com/aminnouri_com)
 - **Blog/Docs:** [atrvasa.com](https://atrvasa.com)
 
 ---
